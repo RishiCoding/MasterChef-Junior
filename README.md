@@ -1,1 +1,2 @@
-# MasterChef-Junior
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
